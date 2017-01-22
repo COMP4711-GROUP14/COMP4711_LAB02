@@ -6,3 +6,6 @@ Added changelog.
 
 2017-01-21
 Added Donald Trump image and quote.
+
+2017-01-21
+Added quote tooltip.
