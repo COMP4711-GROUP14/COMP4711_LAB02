@@ -9,3 +9,6 @@ Added Donald Trump image and quote.
 
 2017-01-21
 Added quote tooltip.
+
+2017-01-21
+Added random function to Welcome.
