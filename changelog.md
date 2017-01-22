@@ -3,3 +3,6 @@ Additions to the changelog will go to the bottom.(bottom newest)
 
 2017-01-21
 Added changelog.
+
+2017-01-21
+Added quote tooltip.
